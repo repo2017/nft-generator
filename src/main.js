@@ -414,7 +414,7 @@ const startCreating = async () => {
         editionCount++;
         abstractedIndexes.shift();
       } else {
-        console.log("DNA exists!");
+        console.log("DNA exists!" + failedCount);
         failedCount++;
         if (failedCount >= uniqueDnaTorrance) {
           console.log(

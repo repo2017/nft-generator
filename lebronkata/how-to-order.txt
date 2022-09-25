@@ -1,0 +1,49 @@
+------------- ENG -----------------
+
+1. create polygon wallet
+    - that can be achieved by installing trustwallet on mobile and creating account 
+    - or by installing metamask chrome browser extension and adding polygon chain to it: https://academy.binance.com/en/articles/how-to-add-polygon-to-metamask
+    - put some "matic" in your wallet by withdrawing from an exchange like binance, coinbase etc (you dont need this step if you will just buy from opensea as in step "3")
+2. MINT. If you want to mint
+    - go to http://lebronapp.herokuapp.com/
+    - click "Connect" to see your wallet address below the button
+	- click "Mint" and approve the transaction (the price is 7.5 MATIC which is arround 6usd at the time of writing of the post)
+	- the nft that you just created will arrive in your wallet shortly
+3. BUY FROM OPENSEA. If you just want to buy, because you dont have "matic" 
+    - go to https://opensea.io/collection/conan-the-barbarian-metaverse
+    - choose an item to buy
+	- click "Buy Now" and choose the option with card then follow the steps (you can also use MATIC or WETH if you have)
+   
+   
+--------------- BG -----------------------
+
+
+1. създайте polygon портфейл
+    - това може да се постигне чрез инсталиране на trustwallet на мобилно устройство и създаване на акаунт
+    - или като инсталирате metamask chrome разширение и добавите polygon chain към него: https://academy.binance.com/bg/articles/how-to-add-polygon-to-metamask
+    - поставете малко "matic" в портфейла си, като изтеглите от exchange като binance, coinbase и т.н. (нямате нужда от тази стъпка, ако просто ще купувате от opensea "стъпка 3")
+2. MINT. Ако искате да mint-нете
+    - отидете на http://lebronapp.herokuapp.com/
+    - щракнете върху „Connect“, за да видите адреса на вашия портфейл под бутона
+    - щракнете върху „Mint“ и одобрете транзакцията (цената е 7,5 MATIC, което е около 6 USD към момента на писане на публикацията)
+    - nft-to, koeto току-що създадохте, ще пристигне в портфейла ви скоро
+3. КУПЕТЕ ОТ OPENSEA. Ако искате само да си купите, защото нямате "MATIC"
+    - отидете на https://opensea.io/collection/conan-the-barbarian-metaverse
+    - изберете nft-то, което Ви харесва
+    - щракнете върху „Buy now“ и изберете опцията с карта, след което следвайте стъпките (можете също да използвате MATIC или WETH, ако имате)
+	
+	
+This nft is the key to unlock premium content from my metaverse (twitch.com/melebron).
+ - you will not only get a unique beautiful art created by a team of top artists and developers, but also you get much benefits like
+ - raffles with huge prizes!
+ - the Big Battle of Conan the Barbarian Metaverse. Every season you can win big prizes in our game, which we will release soon!
+ - premium discord roles and channels
+ - contest with prizes for most beautiful
+ - contest with prizes for the strongest
+ - contest with prizes for the most rare
+ - premium merch and unique merch with the nft you hold
+ - nft drops for holders of 2 or more nfts from the collection
+ - participate in events in League of Legends like 1 on 1 tournaments with huge prizes (1000 usd+)!
+ - premium access to IRL events
+ - and thats not all. We are extending our metaverse daily and adding new benefits
+ - join the discord for full list of benefits

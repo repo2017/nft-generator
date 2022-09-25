@@ -1,0 +1,63 @@
+https://academy.binance.com/en/articles/how-to-add-polygon-to-metamask
+
+5 background
+5 nose
+5 eyes/glasses
+5 weapons
+5 hats
+5 jewels
+
+5 na shesta stepen stava
+
+sloji layout on stream
+
+1. create connan deployer and put some matic in it
+2. upload the layers
+3. change the name of every image from the layers
+4. setup the rarity of every image using #70 for weight (70%)
+5. change the description
+6. run generator for images
+7. upload folder to pinata with images
+8. get the CID of images from pinata and replace in config.js baseURI
+9. update the baseURI in metadata by npm run update_info
+10. check the metadata jsons that they look as expected
+11. upload to pinata the json folder
+12. change some properties in the contract like className, description etc name of the contract
+13. save the contract as text-file
+14. deploy with base url ipfs://rqlwjrekqrjl_JSON_CID_FROM_PINATA/ (forward slash at the end)
+15. after the "transact button" click the copy next to the button and save it to a file (contructor abi)
+16. verify contract with text-file and the constructor abi using the last paragrapth with many zeros (000fdsfjds000fdslfdsl000)
+17. edit collection on opensea
+18. mint from 1-6020
+17. run the robot to upload to opensea from 1000 to 6020
+18. change the stuff in the react minting website
+19. tutorial how to buy
+20. test withdraw
+21. commit all
+
+---- mint price x*1.2, opensea price 1*x, rare at 3*x pone 3 thraita <= 15% rarity - x=5usd in matic, if 5-6 traits 10x
+
+
+to work with heroku to restart:
+$ heroku builds:cancel
+Stopping build 1f97c80b-627c-4b72-a8b8-d4126cbd8214... done
+
+PC@DESKTOP-39OE5T3 MINGW64 ~/git/react-wallet (main)
+$ heroku restart
+Restarting dynos on lebronapp... done
+
+or to deploy we need heroku login, then git push heroku main
+
+
+-------------------
+share with community them it is 50usd to mint on ethereum
+share with community the prize for the best - the minimum number = multipky trait rarity , but dont count the helmet
+share with community - when all minted the big price the big giveaway
+share with community - merch with the nft that you own
+
+---------------------
+as a Technical Lead:
+-epic breakdown to tasks and subtasks
+-estimations of epics with storypoints
+-scrum meetings utilization
+lead by example kind of guy

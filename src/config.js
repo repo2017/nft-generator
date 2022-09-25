@@ -5,9 +5,9 @@ const { NETWORK } = require(`${basePath}/constants/network.js`);
 const network = NETWORK.eth;
 
 // General metadata for Ethereum
-const namePrefix = "Your Collection";
-const description = "Remember to replace this description";
-const baseUri = "ipfs://NewUriToReplace";
+const namePrefix = "Conan the Barbarian";
+const description = "10000 Conan the Barbarian adventuring in the metaverse.";
+const baseUri = "ipfs://QmcNhZHiwGWNNcnbLmNt985hD3WAnVs1APDNdsHdNvYWPk";
 
 const solanaMetadata = {
   symbol: "YC",
@@ -24,15 +24,14 @@ const solanaMetadata = {
 // If you have selected Solana then the collection starts from 0 automatically
 const layerConfigurations = [
   {
-    growEditionSizeTo: 5,
+    growEditionSizeTo: 10000,
     layersOrder: [
-      { name: "Background" },
-      { name: "Eyeball" },
-      { name: "Eye color" },
-      { name: "Iris" },
-      { name: "Shine" },
-      { name: "Bottom lid" },
-      { name: "Top lid" },
+      { name: "background" },
+      { name: "body" },
+      { name: "weapon" },
+      { name: "helmet" },
+      { name: "armor" },
+      { name: "jewelry" },
     ],
   },
 ];
@@ -42,8 +41,8 @@ const shuffleLayerConfigurations = false;
 const debugLogs = false;
 
 const format = {
-  width: 512,
-  height: 512,
+  width: 1024,
+  height: 1024,
   smoothing: false,
 };
 
@@ -82,7 +81,7 @@ const extraMetadata = {};
 
 const rarityDelimiter = "#";
 
-const uniqueDnaTorrance = 10000;
+const uniqueDnaTorrance = 1000000;
 
 const preview = {
   thumbPerRow: 5,
